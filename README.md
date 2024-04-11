@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-📫 How to reach me **thlnguyen150399@gmail.com**<br>🔭 I’m currently working on Applied LLM into Full Stack project<br>🤝 I’m looking for help with LLM<br>🌱 I’m currently learning about Machine Learning (LLM)
+📫 How to reach me **thlnguyen150399@gmail.com**<br>🔭 I’m currently working on Applied LLM into Full Stack projects<br>🤝 I’m looking for help with LLM<br>🌱 I’m currently learning about Machine Learning (LLM)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincenttrinh99/) 

@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-📫 How to reach me **vincenttrinh169@gmail.com**<br>🔭 I’m currently working on Applied LLM into Full Stack projects<br>🤝 I’m looking for help with LLM<br>🌱 I’m currently learning about Machine Learning (LLM) <br>🌐 Visit my website [**here**](https://vincent-trinh-website.vercel.app/)
+📫 How to reach me **vincenttrinh169@gmail.com**<br>🔭 I’m currently working on Agentic AI and Cybersecurity <br>🤝 I’m looking for help with understanding the Cybersecurity aspect <br>🌱 I’m currently learning about Machine Learning (LLM) <br>🌐 Visit my website [**here**](https://vincent-trinh-website.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincenttrinh99/) 

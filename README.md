@@ -3,8 +3,7 @@
 
 
 # 💫 About Me:
-📫 How to reach me **vincenttrinh169@gmail.com**<br>🔭 I’m currently working on Agentic AI <br>🌱 I’m currently learning about AI harness and how to alleviate it <br>🌐 Visit my website [**here**](https://vincent-trinh-website.vercel.app/)
-
+📫 How to reach me **vincenttrinh169@gmail.com**<br>🔭 I’m currently working on Agentic AI <br>🌱 I’m currently learning about AI harness and how to alleviate it <br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincenttrinh99/) 
 
